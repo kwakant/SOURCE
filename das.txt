@@ -1,0 +1,8 @@
+## 構成図
+
+```Bash
+function hello(){
+　return "hello world!";
+}
+```
+
